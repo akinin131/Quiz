@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/dialogon"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:background="@drawable/fonleveltwo123"
+    android:orientation="vertical"
+
+    android:layout_margin="10dp"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp"
+        android:gravity="center"
+        >
+        <TextView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:id="@+id/btncloseee"
+            android:text="X"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:background="@drawable/stule_btn_black95_and_true"
+            android:textColor="@color/black95"
+            android:layout_gravity="end"
+            >
+        </TextView>
+
+            <ImageView
+
+                android:id="@+id/previewimg"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_marginTop="10dp"
+                android:src="@drawable/cifrilevel1"
+                android:layout_weight="60"
+                />
+
+        <TextView
+            android:id="@+id/textdescription"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="30"
+            android:text="@string/textlevel1string"
+            android:textColor="@color/black95"
+            android:textSize="24sp" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:id="@+id/btncontinue"
+            android:background="@drawable/stule_btn_black95_and_true"
+            android:layout_weight="10"
+            android:text="@string/levelcontinue"
+            android:padding="12dp"
+
+            android:textColor="@color/black95"
+            android:textSize="15sp"
+            android:layout_marginTop="10dp"
+            />
+
+
+
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="leveltext0">Ноль</string>
+    <string name="leveltext1">Один</string>
+    <string name="leveltext2">Два</string>
+    <string name="leveltext3">Три</string>
+    <string name="leveltext4">Четыре</string>
+    <string name="leveltext5">Пять</string>
+    <string name="leveltext6">Шесть</string>
+    <string name="leveltext7">Семь</string>
+    <string name="leveltext9">Девять</string>
+    <string name="leveltext10">Десять</string>
+
+    <string name="level2text0">Один апельсин</string>
+    <string name="level2text1">Два апельсина</string>
+    <string name="level2text2">Три апельсина</string>
+    <string name="level2text3">Четыре апельсина</string>
+    <string name="level2text4">Пять апельсинов</string>
+    <string name="level2text5">Шесть апельсинов</string>
+    <string name="level2text6">Семь апельсинов</string>
+    <string name="level2text7">Восемь апельсинов</string>
+    <string name="level2text9">Девять апельсинов</string>
+    <string name="level2text10">Десять апельсинов</string>
+
+
+    <string name="level3text0">Яблоко</string>
+    <string name="level3text1">Астронавт</string>
+    <string name="level3text2">Банан</string>
+    <string name="level3text3">Машина</string>
+    <string name="level3text4">Конфета</string>
+    <string name="level3text5">Дом</string>
+    <string name="level3text6">Манго</string>
+    <string name="level3text7">Марс</string>
+    <string name="level3text8">Вишня</string>
+    <string name="level3text9">Сатурн</string>
+    <string name="level3text10">Сок</string>
+    <string name="level3text11">Мост</string>
+    <string name="level3text12">Апельсин</string>
+    <string name="level3text13">Поезд</string>
+    <string name="level3text14">Стейк</string>
+    <string name="level3text15">Ракетка</string>
+    <string name="level3text16">Клубника</string>
+    <string name="level3text17">Ракета</string>
+    <string name="level3text18">Арбуз</string>
+    <string name="level3text19">Башня</string>
+
+    <string name="level4text0">Сатурн</string>
+    <string name="level4text1">Марс</string>
+    <string name="level4text2">Астероид Апофис</string>
+    <string name="level4text3">Ракета</string>
+    <string name="level4text4">Дом</string>
+    <string name="level4text5">Машина</string>
+    <string name="level4text6">Астронавт</string>
+    <string name="level4text7">Стул</string>
+    <string name="level4text8">Мяч</string>
+    <string name="level4text9">Вишня</string>
+
+    <string name="level5text0">Россия</string>
+    <string name="level5text1">Канада</string>
+    <string name="level5text2">США</string>
+    <string name="level5text3">Китай</string>
+    <string name="level5text4">Австралия</string>
+    <string name="level5text5">Индия</string>
+    <string name="level5text6">Казахстан</string>
+    <string name="level5text7">Германия</string>
+    <string name="level5text8">Португалия</string>
+    <string name="level5text9">Армения</string>
+
+    <string name="level6text0">Буква B</string>
+    <string name="level6text1">Буква С</string>
+    <string name="level6text2">Буква D</string>
+    <string name="level6text3">Буква F</string>
+    <string name="level6text4">Буква G</string>
+    <string name="level6text5">Буква H</string>
+    <string name="level6text6">Буква j</string>
+    <string name="level6text7">Буква K</string>
+    <string name="level6text8">Буква L</string>
+    <string name="level6text9">Буква M</string>
+    <string name="level6text10">Буква N</string>
+    <string name="level6text11">Буква O</string>
+    <string name="level6text12">Буква P</string>
+    <string name="level6text13">Буква S</string>
+    <string name="level6text14">Буква T</string>
+    <string name="level6text15">Буква U</string>
+    <string name="level6text16">Буква V</string>
+    <string name="level6text17">Буква X</string>
+
+
+    <string name="level7text0">Буква Ж</string>
+    <string name="level7text1">Буква З</string>
+    <string name="level7text2">Буква Л</string>
+    <string name="level7text3">Буква М</string>
+    <string name="level7text4">Буква Н</string>
+    <string name="level7text5">Буква О</string>
+    <string name="level7text6">Буква П</string>
+    <string name="level7text7">Буква Р</string>
+    <string name="level7text8">Буква С</string>
+    <string name="level7text9">Буква Т</string>
+    <string name="level7text10">Буква Ф</string>
+    <string name="level7text11">Буква Х</string>
+    <string name="level7text12">Буква Ч</string>
+    <string name="level7text13">Буква Ш</string>
+    <string name="level7text14">Буква Э</string>
+    <string name="level7text15">Буква Я</string>
+
+    <string name="level8text0">Яблоко</string>
+    <string name="level8text1">Помидор</string>
+    <string name="level8text2">Вишня</string>
+    <string name="level8text3">Ежевика</string>
+    <string name="level8text4">Банан</string>
+    <string name="level8text5">Клубника</string>
+    <string name="level8text6">Кокос</string>
+    <string name="level8text7">Арбуз</string>
+    <string name="level8text8">Лимон</string>
+    <string name="level8text9">Огурец</string>
+    <string name="level8text10">Груша</string>
+    <string name="level8text11">Перец</string>
+    <string name="level8text12">Лайм</string>
+    <string name="level8text13">Марковь</string>
+    <string name="level8text14">Манго</string>
+    <string name="level8text15">Лук</string>
+    <string name="level8text16">Персик</string>
+    <string name="level8text17">Виноград</string>
+    <string name="level8text18">Слива</string>
+    <string name="level8text19">Гриб</string>
+
+    <string name="level9text0">Меркурий</string>
+    <string name="level9text1">Венера</string>
+    <string name="level9text2">Земля</string>
+    <string name="level9text3">Марс</string>
+    <string name="level9text4">Юпитер</string>
+    <string name="level9text5">Сатурн</string>
+    <string name="level9text6">Уран</string>
+    <string name="level9text7">Нептун</string>
+    <string name="level9text8">плутон</string>
+    <string name="level9text9">Спутник Вояджер-1
+    </string>
+
+    <string name="level10text0">Черная дыра TON 618</string>
+    <string name="level10text1">Юпитер</string>
+    <string name="level10text2">Сатурн</string>
+    <string name="level10text3">Уран</string>
+    <string name="level10text4">Нептун</string>
+    <string name="level10text5">Земля</string>
+    <string name="level10text6">Венера</string>
+    <string name="level10text7">Марс</string>
+    <string name="level10text8">Меркурий</string>
+    <string name="level10text9">Плутон</string>
+
+
+    <string name="level11text0">Иран</string>
+    <string name="level11text1">Италия</string>
+    <string name="level11text2">Япония</string>
+    <string name="level11text3">США</string>
+    <string name="level11text4">Казахстан</string>
+    <string name="level11text5">Аргентина</string>
+    <string name="level11text6">Корея</string>
+    <string name="level11text7">Бразилия</string>
+    <string name="level11text8">Пакистан</string>
+    <string name="level11text9">Канада</string>
+    <string name="level11text10">Тайвань</string>
+    <string name="level11text11">Мексика</string>
+    <string name="level11text12">Таиланд</string>
+    <string name="level11text13">Россия</string>
+    <string name="level11text14">Вьетнам</string>
+    <string name="level11text15">Румыния</string>
+    <string name="level11text16">Армения</string>
+    <string name="level11text17">Великобритания</string>
+    <string name="level11text18">Монголия</string>
+    <string name="level11text19">Украина</string>
+
+
+</resources>
